@@ -7,8 +7,7 @@ The original source code has been modified in order to be used within the EBI-MG
 
 ## Changelog
 
-
-
+- 2020-02-25: fix random exit code on `run_hmm.c` issue ([09b11e568930](https://github.com/EBI-Metagenomics/fraggenescan/commit/09b11e568930f5498e3295bb1d71d1f880c694fc))
 
 Installation
 =============
