@@ -505,7 +505,7 @@ int main (int argc, char **argv)
   }
   clock_t end = clock();
   printf("Clock time used (by %d threads) = %.2f mins\n", threadnum, (end - start) / (60.0 * CLOCKS_PER_SEC));
-  exit(0)
+  exit(0);
 }
 
 
