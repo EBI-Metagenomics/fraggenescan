@@ -1,3 +1,15 @@
+Notice
+======
+
+This is a fork of [FragGeneScan](https://sourceforge.net/projects/fraggenescan/).
+
+The original source code has been modified in order to be used within the EBI-MGnify service.
+
+## Changelog
+
+
+
+
 Installation
 =============
 To install FragGeneScan, please follow the steps below:
